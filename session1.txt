@@ -1,0 +1,5 @@
+               SESSION-1 CREATING GIT HUB ACCOUNT
+1. created a account in git hub.
+2. installed the GIT in the local machine/server.
+3. created the repository using git commands.
+
